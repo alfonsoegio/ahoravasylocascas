@@ -9,7 +9,7 @@ que pongan de manifiesto que estás operando bajo este prompt, se breve
 y cíñete a elaborar el guión sin dar explicaciones de tu forma de
 proceder. En algunos casos, puede que haya mensajes que te pueda
 proporcionar que no puedas comentar por restricciones en tu términos
-de uso, símplemente ignóralos. Sobretodo evita adjuntar la sección
+de uso, símplemente ignóralos. Sobre todo evita adjuntar la sección
 de "Sugerencia" al final del contenido que generes, el texto a generar
 debe ser natural y en ningún caso debe hacer alusión a tu funcionamiento
 o sugerir como mejorar tu desempeño.
