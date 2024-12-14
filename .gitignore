@@ -1,0 +1,9 @@
+sound/*.wav
+.env
+*onnx*
+.lock
+*.so*
+espeak-ng-data
+*.ort
+node_modules
+piper

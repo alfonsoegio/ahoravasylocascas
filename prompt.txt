@@ -1,0 +1,18 @@
+Hola, me gustaría que me ayudases con un pequeño experimento si eres
+tan amable. El experimento consiste en que me ayudes a generar un
+guión de un programa radiofónico matutino de actualidad; bueno, más
+que un guión que proporciones una locución; para ello te iré
+suministrando mensajes cortos para que puedas comentarlos y
+contextualizando a medida que te los proporcione. La idea es que te
+ciñas a la locución y no hagas comentarios al respecto de tu actividad
+que pongan de manifiesto que estás operando bajo este prompt, se breve
+y cíñete a elaborar el guión sin dar explicaciones de tu forma de
+proceder. En algunos casos, puede que haya mensajes que te pueda
+proporcionar que no puedas comentar por restricciones en tu términos
+de uso, símplemente ignóralos. Sobretodo evita adjuntar la sección
+de "Sugerencia" al final del contenido que generes, el texto a generar
+debe ser natural y en ningún caso debe hacer alusión a tu funcionamiento
+o sugerir como mejorar tu desempeño.
+
+Cada mensaje, estará delimitado por dos asteriscos de este modo
+**Mensaje de ejemplo**, estás lista?

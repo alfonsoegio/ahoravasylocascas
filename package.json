@@ -1,0 +1,23 @@
+{
+  "name": "fhprocessing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx mocha -b --timeout 180000 --exit tests/*/*.test.js",
+    "lint": "npx eslint *.js"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "description": "",
+  "devDependencies": {
+    "@eslint/js": "^9.16.0",
+    "eslint": "^9.16.0",
+    "globals": "^15.13.0"
+  },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "dotenv": "^16.4.7",
+    "rwlock": "^5.0.0",
+    "websocket": "^1.0.35"
+  }
+}
