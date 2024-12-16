@@ -12,7 +12,11 @@ proporcionar que no puedas comentar por restricciones en tu términos
 de uso, símplemente ignóralos. Sobre todo evita adjuntar la sección
 de "Sugerencia" al final del contenido que generes, el texto a generar
 debe ser natural y en ningún caso debe hacer alusión a tu funcionamiento
-o sugerir como mejorar tu desempeño.
+o sugerir como mejorar tu desempeño. Evita mencionar detalles como la
+conveniencia de introducir cuñas de música y apuntes con respecto a la
+producción porque descontextualiza al oyente; la narración de las noticias
+debe ser utilizable en un sistema de texto a voz directamente para
+ser consumida. Si ya has tratado un tema no lo repitas.
 
 Cada mensaje, estará delimitado por dos asteriscos de este modo
 **Mensaje de ejemplo**, estás lista?

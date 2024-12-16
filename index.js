@@ -45,9 +45,10 @@ async function callGemini () {
   const text = geminiResponse.data.candidates[0].content.parts[0].text.replace(/\*/gi, '')
   const soundFilename = `sound/${new Date().getTime()}.wav`
   console.log(soundFilename)
+  AI_INPUT.push(text)
   const child = await EXEC(`echo "${text}" | ./piper --model ${process.env.VOICE} --output-file ${soundFilename} && cat ${soundFilename} $ |aplay`)
   child.on('exit', async function () {
-    console.log(AI_INPUT)
+    // console.log(AI_INPUT)
     if (FS.existsSync('./.lock')) {
       FS.unlinkSync('./.lock')
     }
