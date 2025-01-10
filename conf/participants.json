@@ -1,0 +1,17 @@
+{
+  "emiliano":
+  {
+    "voice": "es_ES-sharvard-medium.onnx",
+    "prompt": "./conf/emiliano.txt"
+  },
+  "conchita":
+  {
+    "voice": "es_MX-claude-high.onnx",
+    "prompt": "./conf/conchita.txt"
+  },
+  "federico":
+  {
+    "voice": "es_ES-carlfm-x_low.onnx",
+    "prompt": "./conf/federico.txt"
+  }
+}
